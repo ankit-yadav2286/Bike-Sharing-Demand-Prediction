@@ -62,6 +62,14 @@ EDA refers to the critical process of performing initial investigations on data 
 
 # Visualizing Distributions
 ![image](https://user-images.githubusercontent.com/107911669/197342838-18578d65-24e5-4d8b-91b0-74b1082e03a5.png)
+![image](https://user-images.githubusercontent.com/107911669/197343427-9d4ea33a-6b2a-4428-aeea-e760b8fb6765.png)
+![image](https://user-images.githubusercontent.com/107911669/197343441-fe991edc-59ee-4636-8693-abcb14710f19.png)
+![image](https://user-images.githubusercontent.com/107911669/197343464-63d5c68d-7a26-42aa-bda9-9c54330f7700.png)
+![image](https://user-images.githubusercontent.com/107911669/197343483-fb8f0045-a0db-4b8e-96be-fb4b9116263a.png)
+![image](https://user-images.githubusercontent.com/107911669/197343494-3076fad8-e5ba-42a3-a6ef-b744601e2be0.png)
+![image](https://user-images.githubusercontent.com/107911669/197343503-b0e04069-24be-4f62-b520-fe5a1e1bc23a.png)
+![image](https://user-images.githubusercontent.com/107911669/197343509-978af231-3886-4ff6-8535-3f36c78345a1.png)
+
 
 # Analysis from Distributions 
 * "Temperature" and "Humidity" follows Uniform Distribution
@@ -75,6 +83,14 @@ EDA refers to the critical process of performing initial investigations on data 
 # Data Preprocessing and Assumption Check
 
 ![image](https://user-images.githubusercontent.com/107911669/197343258-6f2b1114-9560-4f9a-8326-550d70704436.png)
+![image](https://user-images.githubusercontent.com/107911669/197343531-6f93a200-3d5e-4b00-a255-75a749973760.png)
+![image](https://user-images.githubusercontent.com/107911669/197343540-44b070ac-7ed4-4795-b1f6-0e8a2750ded3.png)
+![image](https://user-images.githubusercontent.com/107911669/197343551-4ed46aea-f477-48c1-82ca-02ae5e7ff254.png)
+![image](https://user-images.githubusercontent.com/107911669/197343552-fc73c191-60cb-4602-b14d-f761002ef5fe.png)
+![image](https://user-images.githubusercontent.com/107911669/197343556-a9ccdd1d-c3da-4173-bd80-b64cb33ffc64.png)
+![image](https://user-images.githubusercontent.com/107911669/197343573-3b042bef-6ebf-4dfe-aadb-0d508602e0e6.png)
+![image](https://user-images.githubusercontent.com/107911669/197343576-5e40b7b1-9397-43fa-bbf8-843108464545.png)
+
 
 # Multicollinearity
 
